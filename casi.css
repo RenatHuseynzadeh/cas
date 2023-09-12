@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+.d1{
+    width: 100px;
+    height: 100px;
+    
+}
+
+.p1{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 125px;
+}
+
+.p2{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 125px;
+}
+
+.p3{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 125px;
+}
+
+.msk{
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.kitay{
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.nase
+{
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 50px;
+}
+
